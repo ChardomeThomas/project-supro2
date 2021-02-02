@@ -34,8 +34,8 @@ Working in team
 Respect the deadline
 
 ![Homepage](images/design3.jpg)
-![Shop/About](image/design1.jpg)
-![Contact/Product](image/design2.jpg)
+![Shop/About](images/design1.jpg)
+![Contact/Product](images/design2.jpg)
 
 ## Statut:
 Done
