@@ -33,9 +33,9 @@ Respect strictly a design provided
 Working in team
 Respect the deadline
 
-![Homepage](images/Design3.jpg)
-![Shop/About](image/Design1.jpg)
-![Contact/Product](image/Design2.jpg)
+![Homepage](images/design3.jpg)
+![Shop/About](image/design1.jpg)
+![Contact/Product](image/design2.jpg)
 
 ## Statut:
 Done
